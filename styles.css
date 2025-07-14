@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    padding-top: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 36px;
+    color: darkblue;
+}
+
+form {
+    border: 0.5px solid;
+    border-color: black;
+    box-sizing: border-box;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+}
