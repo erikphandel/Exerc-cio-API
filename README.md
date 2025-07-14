@@ -1,0 +1,1 @@
+Exercício simples do curso da EBAC para criar preenchimento automático de dados relacionados ao CEP usando fetch API e o ViaCEP. O aplicativo também armazena os dados obtidos no fetch num local storage e carrega eles ao carregar a página.
